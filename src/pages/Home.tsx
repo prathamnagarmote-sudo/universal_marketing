@@ -53,12 +53,25 @@ function InfoBar() {
 /* ── Product Slider ── */
 function ProductSlider() {
   const productImages = [
-    'https://images.unsplash.com/photo-1589923188900-85dae523342b?w=800&q=80',
-    'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80',
-    'https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&q=80',
-    'https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=800&q=80',
-    'https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=800&q=80',
-    'https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800&q=80',
+    '/img 1.jpeg',
+     '/img 2.jpeg',
+      '/img 3.jpeg',
+       '/img 4.jpeg',
+        '/img 5.jpeg',
+         '/img 6.jpeg',
+          '/img 7.jpeg',
+           '/img 8.jpeg',
+            '/img 9.jpeg',
+             '/img 10.jpeg',
+              '/img 11.jpeg',
+               '/img 12.jpeg',
+                '/img 13.jpeg',
+                 '/img 14.jpeg',
+                  '/img 15.jpeg',
+                   '/img 16.jpeg',
+                    '/img 17.jpeg',
+                     '/img 18.jpeg',
+    
   ];
 
   return (
